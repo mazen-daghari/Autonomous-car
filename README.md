@@ -57,7 +57,9 @@ Source the ROS 2 setup file:
 sh
 echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
+
 Step 3: Install Dependencies
+-
 Install PCL and OpenCV:
 
 sh
