@@ -30,7 +30,7 @@ Docker: For containerized environments.
 Colcon: For building ROS 2 workspaces.
 ##video
 
-![video](https://www.linkedin.com/posts/mazen-daghari_autonomousvehicles-ros2-rviz-activity-7271916494073020418-I3qT?utm_source=share&utm_medium=member_desktop)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7271894617732640768" height="1823" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 Step-by-Step Installation Guide
 -
