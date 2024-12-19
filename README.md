@@ -28,6 +28,9 @@ CUDA: If using an NVIDIA GPU, CUDA is required for GPU acceleration.
 Docker: For containerized environments.
 
 Colcon: For building ROS 2 workspaces.
+##video
+
+![video](https://www.linkedin.com/posts/mazen-daghari_autonomousvehicles-ros2-rviz-activity-7271916494073020418-I3qT?utm_source=share&utm_medium=member_desktop)
 
 Step-by-Step Installation Guide
 -
